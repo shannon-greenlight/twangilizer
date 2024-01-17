@@ -1,6 +1,9 @@
 # Twangilizer - 4 Harmonic Tracking Oscillator with 4 VCAs
 Twangilizer is a 20HP Eurorack module designed and made by Greenface Labs.
-Used in conjunction with a VCO and a multiple-output CV generating module such as the Bonkulator, Twangilizer is a great way to set the amplitude envelopes of a tone and 4 of its harmonics. The harmonics are selectable from 1f, 2f, 3f, 4f, 5f, 6f, 7f and 8f. They are generated as square waves.
+Used in conjunction with a VCO and a multiple-output CV generating module such as the Bonkulator, Twangilizer is a great way to set the amplitude envelopes of a tone and 4 of its harmonics. 
+The harmonics are selectable from 1f, 2f, 3f, 4f, 5f, 6f, 7f and 8f. They are available as square waves at the output jacks 1-4.
+The harmonics are also used to generate 10-step sine-wave approximations. The amplitudes of these waves are set by the CV inputs and then added to form the analog signal output.
+
 Twangilizer features one signal input, a signal output, 4 CV bias level adjustment pots, and four CV inputs to the VCAs.
 It also features harmonic selection controls: Four 8 position rotary switches to select the harmonic from the above list. And there is a toggle switch per channel that selects divide by one, or divide by two.
 
