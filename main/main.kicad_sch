@@ -5928,7 +5928,7 @@
       (reference "C22") (unit 1) (value "680pF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/edc38bfa-6043-43f6-ace4-2fbdb16362cd/15e1660e-4c2e-4cc2-94a8-4af815970a5c"
-      (reference "C23") (unit 1) (value "1nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C23") (unit 1) (value "680pF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/edc38bfa-6043-43f6-ace4-2fbdb16362cd/17afb036-eb1e-4682-adca-8204c371fdba"
       (reference "C24") (unit 1) (value "680pF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")

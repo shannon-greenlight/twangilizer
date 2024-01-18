@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\shann\Dropbox\moog\twangilizer\main\main.kicad_sch</source>
-    <date>1/17/2024 7:46:31 AM</date>
+    <date>1/18/2024 11:45:32 AM</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1387,16 +1387,16 @@
       <tstamps>aa3366f1-9198-4300-bff7-2d123d0a523a</tstamps>
     </comp>
     <comp ref="C23">
-      <value>1nF</value>
+      <value>680pF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">BC2662CT-ND</field>
-        <field name="LCSC Part #">C46653</field>
+        <field name="LCSC Part #">C384742</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="BC2662CT-ND"/>
-      <property name="LCSC Part #" value="C46653"/>
+      <property name="LCSC Part #" value="C384742"/>
       <property name="Sheetname" value="PLLs"/>
       <property name="Sheetfile" value="harmonics.kicad_sch"/>
       <sheetpath names="/PLLs/" tstamps="/edc38bfa-6043-43f6-ace4-2fbdb16362cd/"/>
