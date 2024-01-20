@@ -280,7 +280,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 127 43.815 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom no) (on_board no)
     (uuid 1909656d-6e3a-4eea-b921-a85913945cb0)
     (property "Reference" "H2" (id 0) (at 129.54 42.6466 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -317,7 +317,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 127 38.735 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom no) (on_board no)
     (uuid 2274cb2e-6550-4840-b6fc-74833f21cbfe)
     (property "Reference" "H1" (id 0) (at 129.54 37.5666 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -374,7 +374,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 127 53.975 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom no) (on_board no)
     (uuid 3da7583e-6bf8-4481-a4dc-2c4b764375c6)
     (property "Reference" "H4" (id 0) (at 129.54 52.8066 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -604,7 +604,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 127 48.895 0) (unit 1)
-    (in_bom no) (on_board yes)
+    (in_bom no) (on_board no)
     (uuid 88dec205-c345-444b-a727-c00edbb17f85)
     (property "Reference" "H3" (id 0) (at 129.54 47.7266 0)
       (effects (font (size 1.27 1.27)) (justify left))

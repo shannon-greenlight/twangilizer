@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\shann\Dropbox\moog\twangilizer\main\main.kicad_sch</source>
-    <date>1/18/2024 11:45:32 AM</date>
+    <date>1/19/2024 6:32:02 PM</date>
     <tool>Eeschema (6.0.1)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -307,15 +307,15 @@
     </comp>
     <comp ref="C13">
       <value>10pF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">399-9877-1-ND</field>
-        <field name="LCSC Part #">C107107</field>
+        <field name="LCSC Part #">C1634</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="399-9877-1-ND"/>
-      <property name="LCSC Part #" value="C107107"/>
+      <property name="LCSC Part #" value="C1634"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -374,11 +374,11 @@
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">399-9877-1-ND</field>
-        <field name="LCSC Part #">C597357</field>
+        <field name="LCSC Part #">C46653</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="399-9877-1-ND"/>
-      <property name="LCSC Part #" value="C597357"/>
+      <property name="LCSC Part #" value="C46653"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -510,7 +510,7 @@
     </comp>
     <comp ref="D5">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -526,7 +526,7 @@
     </comp>
     <comp ref="D6">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -541,7 +541,7 @@
     </comp>
     <comp ref="D7">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -557,7 +557,7 @@
     </comp>
     <comp ref="D8">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -572,7 +572,7 @@
     </comp>
     <comp ref="D9">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -588,7 +588,7 @@
     </comp>
     <comp ref="D10">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -603,7 +603,7 @@
     </comp>
     <comp ref="D11">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -619,7 +619,7 @@
     </comp>
     <comp ref="D12">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -634,7 +634,7 @@
     </comp>
     <comp ref="D13">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -650,7 +650,7 @@
     </comp>
     <comp ref="D14">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -669,11 +669,11 @@
       <datasheet>http://www.vishay.com/docs/81857/1n4148.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">1N4148VSCT-ND</field>
-        <field name="LCSC Part #">C2892570</field>
+        <field name="LCSC Part #">C81598</field>
       </fields>
       <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
       <property name="Digi-Key Part" value="1N4148VSCT-ND"/>
-      <property name="LCSC Part #" value="C2892570"/>
+      <property name="LCSC Part #" value="C81598"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -695,11 +695,11 @@
     </comp>
     <comp ref="J1">
       <value>3.5mm Jack</value>
-      <footprint>sputterizer:Molex-0472570001</footprint>
+      <footprint>audio jacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
       <fields>
         <field name="Digi-Key Part">WM17366-ND</field>
       </fields>
-      <libsource lib="greenface-symbols" part="Molex_47257" description=""/>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
       <property name="Digi-Key Part" value="WM17366-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
@@ -708,11 +708,11 @@
     </comp>
     <comp ref="J2">
       <value>3.5mm Jack</value>
-      <footprint>sputterizer:Molex-0472570001</footprint>
+      <footprint>audio jacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
       <fields>
         <field name="Digi-Key Part">WM17366-ND</field>
       </fields>
-      <libsource lib="greenface-symbols" part="Molex_47257" description=""/>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
       <property name="Digi-Key Part" value="WM17366-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
@@ -721,11 +721,11 @@
     </comp>
     <comp ref="J3">
       <value>3.5mm Jack</value>
-      <footprint>sputterizer:Molex-0472570001</footprint>
+      <footprint>audio jacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
       <fields>
         <field name="Digi-Key Part">WM17366-ND</field>
       </fields>
-      <libsource lib="greenface-symbols" part="Molex_47257" description=""/>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
       <property name="Digi-Key Part" value="WM17366-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
@@ -734,11 +734,11 @@
     </comp>
     <comp ref="J4">
       <value>3.5mm Jack</value>
-      <footprint>sputterizer:Molex-0472570001</footprint>
+      <footprint>audio jacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
       <fields>
         <field name="Digi-Key Part">WM17366-ND</field>
       </fields>
-      <libsource lib="greenface-symbols" part="Molex_47257" description=""/>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
       <property name="Digi-Key Part" value="WM17366-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
@@ -747,11 +747,11 @@
     </comp>
     <comp ref="J5">
       <value>3.5mm Jack</value>
-      <footprint>sputterizer:Molex-0472570001</footprint>
+      <footprint>audio jacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
       <fields>
         <field name="Digi-Key Part">WM17366-ND</field>
       </fields>
-      <libsource lib="greenface-symbols" part="Molex_47257" description=""/>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
       <property name="Digi-Key Part" value="WM17366-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
@@ -774,11 +774,11 @@
     </comp>
     <comp ref="J7">
       <value>3.5mm Jack</value>
-      <footprint>sputterizer:Molex-0472570001</footprint>
+      <footprint>audio jacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
       <fields>
         <field name="Digi-Key Part">WM17366-ND</field>
       </fields>
-      <libsource lib="greenface-symbols" part="Molex_47257" description=""/>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
       <property name="Digi-Key Part" value="WM17366-ND"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
@@ -1298,16 +1298,16 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
         <field name="Digi-Key Part">296-1775-5-ND</field>
-        <field name="LCSC Part #">C67473</field>
+        <field name="LCSC Part #">C6961</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
       <property name="Digi-Key Part" value="296-1775-5-ND"/>
       <property name="Build Type" value=""/>
-      <property name="LCSC Part #" value="C67473"/>
+      <property name="LCSC Part #" value="C6961"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>ed0c7f0a-3d69-4576-8c83-c40c7ef5cd2d e4a2e54d-4cf1-405d-8744-b60f5343b414 549bf0a3-148c-4fee-9cf3-20fad78dc6f6</tstamps>
+      <tstamps>e4a2e54d-4cf1-405d-8744-b60f5343b414 ed0c7f0a-3d69-4576-8c83-c40c7ef5cd2d 549bf0a3-148c-4fee-9cf3-20fad78dc6f6</tstamps>
     </comp>
     <comp ref="U2">
       <value>AMS1117-5.0</value>
@@ -1329,12 +1329,12 @@
       <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-1775-5-ND</field>
-        <field name="LCSC Part #">C67473</field>
+        <field name="LCSC Part #">C6961</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
       <property name="Digi-Key Part" value="296-1775-5-ND"/>
       <property name="Build Type" value=""/>
-      <property name="LCSC Part #" value="C67473"/>
+      <property name="LCSC Part #" value="C6961"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -1359,16 +1359,16 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
         <field name="Digi-Key Part">296-1775-5-ND</field>
-        <field name="LCSC Part #">C67473</field>
+        <field name="LCSC Part #">C6961</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
       <property name="Digi-Key Part" value="296-1775-5-ND"/>
       <property name="Build Type" value=""/>
-      <property name="LCSC Part #" value="C67473"/>
+      <property name="LCSC Part #" value="C6961"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="main.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>cbcf0e2e-d51d-435d-aa4e-5fb8e8d47809 d2dbd152-af4f-4ea8-b29b-98a7bf0960af 216a5ac0-5983-4faa-b063-0a42eaa49fb7</tstamps>
+      <tstamps>d2dbd152-af4f-4ea8-b29b-98a7bf0960af cbcf0e2e-d51d-435d-aa4e-5fb8e8d47809 216a5ac0-5983-4faa-b063-0a42eaa49fb7</tstamps>
     </comp>
     <comp ref="C22">
       <value>680pF</value>
@@ -2062,11 +2062,11 @@
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-12808-1-ND</field>
-        <field name="LCSC Part #">C11349</field>
+        <field name="LCSC Part #">C356694</field>
       </fields>
       <libsource lib="4xxx" part="4017" description="Johnson Counter ( 10 outputs )"/>
       <property name="Digi-Key Part" value="296-12808-1-ND"/>
-      <property name="LCSC Part #" value="C11349"/>
+      <property name="LCSC Part #" value="C356694"/>
       <property name="Sheetname" value="PLLs"/>
       <property name="Sheetfile" value="harmonics.kicad_sch"/>
       <sheetpath names="/PLLs/" tstamps="/edc38bfa-6043-43f6-ace4-2fbdb16362cd/"/>
@@ -2078,11 +2078,11 @@
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-12808-1-ND</field>
-        <field name="LCSC Part #">C11349</field>
+        <field name="LCSC Part #">C356694</field>
       </fields>
       <libsource lib="4xxx" part="4017" description="Johnson Counter ( 10 outputs )"/>
       <property name="Digi-Key Part" value="296-12808-1-ND"/>
-      <property name="LCSC Part #" value="C11349"/>
+      <property name="LCSC Part #" value="C356694"/>
       <property name="Sheetname" value="PLLs"/>
       <property name="Sheetfile" value="harmonics.kicad_sch"/>
       <sheetpath names="/PLLs/" tstamps="/edc38bfa-6043-43f6-ace4-2fbdb16362cd/"/>
@@ -2094,11 +2094,11 @@
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-12808-1-ND</field>
-        <field name="LCSC Part #">C11349</field>
+        <field name="LCSC Part #">C356694</field>
       </fields>
       <libsource lib="4xxx" part="4017" description="Johnson Counter ( 10 outputs )"/>
       <property name="Digi-Key Part" value="296-12808-1-ND"/>
-      <property name="LCSC Part #" value="C11349"/>
+      <property name="LCSC Part #" value="C356694"/>
       <property name="Sheetname" value="PLLs"/>
       <property name="Sheetfile" value="harmonics.kicad_sch"/>
       <sheetpath names="/PLLs/" tstamps="/edc38bfa-6043-43f6-ace4-2fbdb16362cd/"/>
@@ -2106,7 +2106,7 @@
     </comp>
     <comp ref="U12">
       <value>CD4013</value>
-      <footprint>digikey-footprints:SOIC-14_W3.9mm</footprint>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
       <datasheet>http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF</datasheet>
       <fields>
         <field name="Digi-Key Part">296-24347-1-ND</field>
@@ -2122,7 +2122,7 @@
     </comp>
     <comp ref="U13">
       <value>CD4013</value>
-      <footprint>digikey-footprints:SOIC-14_W3.9mm</footprint>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
       <datasheet>http://www.onsemi.com/pub/Collateral/MC14013B-D.PDF</datasheet>
       <fields>
         <field name="Digi-Key Part">296-24347-1-ND</field>
@@ -2156,11 +2156,11 @@
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-12808-1-ND</field>
-        <field name="LCSC Part #">C11349</field>
+        <field name="LCSC Part #">C356694</field>
       </fields>
       <libsource lib="4xxx" part="4017" description="Johnson Counter ( 10 outputs )"/>
       <property name="Digi-Key Part" value="296-12808-1-ND"/>
-      <property name="LCSC Part #" value="C11349"/>
+      <property name="LCSC Part #" value="C356694"/>
       <property name="Sheetname" value="PLLs"/>
       <property name="Sheetfile" value="harmonics.kicad_sch"/>
       <sheetpath names="/PLLs/" tstamps="/edc38bfa-6043-43f6-ace4-2fbdb16362cd/"/>
@@ -2264,7 +2264,7 @@
     </comp>
     <comp ref="D17">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -2279,7 +2279,7 @@
     </comp>
     <comp ref="D18">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -2294,7 +2294,7 @@
     </comp>
     <comp ref="D19">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -2309,7 +2309,7 @@
     </comp>
     <comp ref="D20">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -2324,7 +2324,7 @@
     </comp>
     <comp ref="D21">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -2339,7 +2339,7 @@
     </comp>
     <comp ref="D22">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -2354,7 +2354,7 @@
     </comp>
     <comp ref="D23">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -2369,7 +2369,7 @@
     </comp>
     <comp ref="D24">
       <value>1N5819</value>
-      <footprint>Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <footprint>Diode_SMD:D_SOD-323_HandSoldering</footprint>
       <fields>
         <field name="Digi-Key Part">478-7800-1-ND</field>
         <field name="LCSC Part #">C191023</field>
@@ -2384,11 +2384,11 @@
     </comp>
     <comp ref="J8">
       <value>3.5mm Jack</value>
-      <footprint>sputterizer:Molex-0472570001</footprint>
+      <footprint>audio jacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
       <fields>
         <field name="Digi-Key Part">WM17366-ND</field>
       </fields>
-      <libsource lib="greenface-symbols" part="Molex_47257" description=""/>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
       <property name="Digi-Key Part" value="WM17366-ND"/>
       <property name="Sheetname" value="Outputs"/>
       <property name="Sheetfile" value="digital_outputs.kicad_sch"/>
@@ -2397,11 +2397,11 @@
     </comp>
     <comp ref="J9">
       <value>3.5mm Jack</value>
-      <footprint>sputterizer:Molex-0472570001</footprint>
+      <footprint>audio jacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
       <fields>
         <field name="Digi-Key Part">WM17366-ND</field>
       </fields>
-      <libsource lib="greenface-symbols" part="Molex_47257" description=""/>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
       <property name="Digi-Key Part" value="WM17366-ND"/>
       <property name="Sheetname" value="Outputs"/>
       <property name="Sheetfile" value="digital_outputs.kicad_sch"/>
@@ -2410,11 +2410,11 @@
     </comp>
     <comp ref="J10">
       <value>3.5mm Jack</value>
-      <footprint>sputterizer:Molex-0472570001</footprint>
+      <footprint>audio jacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
       <fields>
         <field name="Digi-Key Part">WM17366-ND</field>
       </fields>
-      <libsource lib="greenface-symbols" part="Molex_47257" description=""/>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
       <property name="Digi-Key Part" value="WM17366-ND"/>
       <property name="Sheetname" value="Outputs"/>
       <property name="Sheetfile" value="digital_outputs.kicad_sch"/>
@@ -2423,11 +2423,11 @@
     </comp>
     <comp ref="J11">
       <value>3.5mm Jack</value>
-      <footprint>sputterizer:Molex-0472570001</footprint>
+      <footprint>audio jacks:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
       <fields>
         <field name="Digi-Key Part">WM17366-ND</field>
       </fields>
-      <libsource lib="greenface-symbols" part="Molex_47257" description=""/>
+      <libsource lib="Connector" part="AudioJack2_SwitchT" description="Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"/>
       <property name="Digi-Key Part" value="WM17366-ND"/>
       <property name="Sheetname" value="Outputs"/>
       <property name="Sheetfile" value="digital_outputs.kicad_sch"/>
@@ -2588,15 +2588,15 @@
     </comp>
     <comp ref="C52">
       <value>300p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">BC2662CT-ND</field>
-        <field name="LCSC Part #">C282698</field>
+        <field name="LCSC Part #">C519401</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="BC2662CT-ND"/>
-      <property name="LCSC Part #" value="C282698"/>
+      <property name="LCSC Part #" value="C519401"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -2604,15 +2604,15 @@
     </comp>
     <comp ref="C53">
       <value>300p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">BC2662CT-ND</field>
-        <field name="LCSC Part #">C282698</field>
+        <field name="LCSC Part #">C519401</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="BC2662CT-ND"/>
-      <property name="LCSC Part #" value="C282698"/>
+      <property name="LCSC Part #" value="C519401"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -2780,15 +2780,15 @@
     </comp>
     <comp ref="C64">
       <value>30p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">BC2662CT-ND</field>
-        <field name="LCSC Part #">C107114</field>
+        <field name="LCSC Part #">C1658</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="BC2662CT-ND"/>
-      <property name="LCSC Part #" value="C107114"/>
+      <property name="LCSC Part #" value="C1658"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -2796,15 +2796,15 @@
     </comp>
     <comp ref="C65">
       <value>30p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">BC2662CT-ND</field>
-        <field name="LCSC Part #">C107114</field>
+        <field name="LCSC Part #">C1658</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="BC2662CT-ND"/>
-      <property name="LCSC Part #" value="C107114"/>
+      <property name="LCSC Part #" value="C1658"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -2876,15 +2876,15 @@
     </comp>
     <comp ref="C70">
       <value>300p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">BC2662CT-ND</field>
-        <field name="LCSC Part #">C282698</field>
+        <field name="LCSC Part #">C519401</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="BC2662CT-ND"/>
-      <property name="LCSC Part #" value="C282698"/>
+      <property name="LCSC Part #" value="C519401"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -2892,15 +2892,15 @@
     </comp>
     <comp ref="C71">
       <value>300p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">BC2662CT-ND</field>
-        <field name="LCSC Part #">C282698</field>
+        <field name="LCSC Part #">C519401</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="BC2662CT-ND"/>
-      <property name="LCSC Part #" value="C282698"/>
+      <property name="LCSC Part #" value="C519401"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -2940,15 +2940,15 @@
     </comp>
     <comp ref="C74">
       <value>30p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">BC2662CT-ND</field>
-        <field name="LCSC Part #">C107114</field>
+        <field name="LCSC Part #">C1658</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="BC2662CT-ND"/>
-      <property name="LCSC Part #" value="C107114"/>
+      <property name="LCSC Part #" value="C1658"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -2956,15 +2956,15 @@
     </comp>
     <comp ref="C75">
       <value>30p</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <footprint>Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder</footprint>
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">BC2662CT-ND</field>
-        <field name="LCSC Part #">C107114</field>
+        <field name="LCSC Part #">C1658</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="BC2662CT-ND"/>
-      <property name="LCSC Part #" value="C107114"/>
+      <property name="LCSC Part #" value="C1658"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -3972,11 +3972,11 @@
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-12808-1-ND</field>
-        <field name="LCSC Part #">C11349</field>
+        <field name="LCSC Part #">C356694</field>
       </fields>
       <libsource lib="4xxx" part="4017" description="Johnson Counter ( 10 outputs )"/>
       <property name="Digi-Key Part" value="296-12808-1-ND"/>
-      <property name="LCSC Part #" value="C11349"/>
+      <property name="LCSC Part #" value="C356694"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -3988,11 +3988,11 @@
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-12808-1-ND</field>
-        <field name="LCSC Part #">C11349</field>
+        <field name="LCSC Part #">C356694</field>
       </fields>
       <libsource lib="4xxx" part="4017" description="Johnson Counter ( 10 outputs )"/>
       <property name="Digi-Key Part" value="296-12808-1-ND"/>
-      <property name="LCSC Part #" value="C11349"/>
+      <property name="LCSC Part #" value="C356694"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -4004,12 +4004,12 @@
       <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-1775-5-ND</field>
-        <field name="LCSC Part #">C67473</field>
+        <field name="LCSC Part #">C6961</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
       <property name="Digi-Key Part" value="296-1775-5-ND"/>
       <property name="Build Type" value=""/>
-      <property name="LCSC Part #" value="C67473"/>
+      <property name="LCSC Part #" value="C6961"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -4021,12 +4021,12 @@
       <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-1775-5-ND</field>
-        <field name="LCSC Part #">C67473</field>
+        <field name="LCSC Part #">C6961</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
       <property name="Digi-Key Part" value="296-1775-5-ND"/>
       <property name="Build Type" value=""/>
-      <property name="LCSC Part #" value="C67473"/>
+      <property name="LCSC Part #" value="C6961"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -4066,11 +4066,11 @@
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-12808-1-ND</field>
-        <field name="LCSC Part #">C11349</field>
+        <field name="LCSC Part #">C356694</field>
       </fields>
       <libsource lib="4xxx" part="4017" description="Johnson Counter ( 10 outputs )"/>
       <property name="Digi-Key Part" value="296-12808-1-ND"/>
-      <property name="LCSC Part #" value="C11349"/>
+      <property name="LCSC Part #" value="C356694"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -4082,11 +4082,11 @@
       <datasheet>http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-12808-1-ND</field>
-        <field name="LCSC Part #">C11349</field>
+        <field name="LCSC Part #">C356694</field>
       </fields>
       <libsource lib="4xxx" part="4017" description="Johnson Counter ( 10 outputs )"/>
       <property name="Digi-Key Part" value="296-12808-1-ND"/>
-      <property name="LCSC Part #" value="C11349"/>
+      <property name="LCSC Part #" value="C356694"/>
       <property name="Sheetname" value="Waveform Generators"/>
       <property name="Sheetfile" value="wavegen.kicad_sch"/>
       <sheetpath names="/Waveform Generators/" tstamps="/50ee9ef7-a34b-481d-9a95-910897671401/"/>
@@ -4475,11 +4475,11 @@
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">478-10836-1-ND</field>
-        <field name="LCSC Part #">C277470</field>
+        <field name="LCSC Part #">C45783</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="478-10836-1-ND"/>
-      <property name="LCSC Part #" value="C277470"/>
+      <property name="LCSC Part #" value="C45783"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -4491,11 +4491,11 @@
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">478-10836-1-ND</field>
-        <field name="LCSC Part #">C277470</field>
+        <field name="LCSC Part #">C45783</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="478-10836-1-ND"/>
-      <property name="LCSC Part #" value="C277470"/>
+      <property name="LCSC Part #" value="C45783"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -4507,11 +4507,11 @@
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">478-10836-1-ND</field>
-        <field name="LCSC Part #">C277470</field>
+        <field name="LCSC Part #">C45783</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="478-10836-1-ND"/>
-      <property name="LCSC Part #" value="C277470"/>
+      <property name="LCSC Part #" value="C45783"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -4523,11 +4523,11 @@
       <datasheet>http://datasheets.avx.com/SR-Series.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">478-10836-1-ND</field>
-        <field name="LCSC Part #">C277470</field>
+        <field name="LCSC Part #">C45783</field>
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Digi-Key Part" value="478-10836-1-ND"/>
-      <property name="LCSC Part #" value="C277470"/>
+      <property name="LCSC Part #" value="C45783"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -4767,11 +4767,11 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="Digi-Key Part">CRT0805-FZ-1002ELFCT-ND</field>
-        <field name="LCSC Part #">C136589</field>
+        <field name="LCSC Part #">C4184</field>
       </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="Digi-Key Part" value="CRT0805-FZ-1002ELFCT-ND"/>
-      <property name="LCSC Part #" value="C136589"/>
+      <property name="LCSC Part #" value="C4184"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -4812,11 +4812,11 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="Digi-Key Part">CRT0805-FZ-1002ELFCT-ND</field>
-        <field name="LCSC Part #">C136589</field>
+        <field name="LCSC Part #">C4184</field>
       </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="Digi-Key Part" value="CRT0805-FZ-1002ELFCT-ND"/>
-      <property name="LCSC Part #" value="C136589"/>
+      <property name="LCSC Part #" value="C4184"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -4917,11 +4917,11 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="Digi-Key Part">CRT0805-FZ-1002ELFCT-ND</field>
-        <field name="LCSC Part #">C136589</field>
+        <field name="LCSC Part #">C4184</field>
       </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="Digi-Key Part" value="CRT0805-FZ-1002ELFCT-ND"/>
-      <property name="LCSC Part #" value="C136589"/>
+      <property name="LCSC Part #" value="C4184"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -4962,11 +4962,11 @@
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
       <fields>
         <field name="Digi-Key Part">CRT0805-FZ-1002ELFCT-ND</field>
-        <field name="LCSC Part #">C136589</field>
+        <field name="LCSC Part #">C4184</field>
       </fields>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <property name="Digi-Key Part" value="CRT0805-FZ-1002ELFCT-ND"/>
-      <property name="LCSC Part #" value="C136589"/>
+      <property name="LCSC Part #" value="C4184"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -5139,10 +5139,10 @@
       <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-1775-5-ND</field>
-        <field name="LCSC Part #">C67473</field>
+        <field name="LCSC Part #">C6961</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
-      <property name="LCSC Part #" value="C67473"/>
+      <property name="LCSC Part #" value="C6961"/>
       <property name="Digi-Key Part" value="296-1775-5-ND"/>
       <property name="Build Type" value=""/>
       <property name="Sheetname" value="VCAs"/>
@@ -5155,12 +5155,12 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
         <field name="Digi-Key Part">296-1775-5-ND</field>
-        <field name="LCSC Part #">C67473</field>
+        <field name="LCSC Part #">C6961</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
       <property name="Digi-Key Part" value="296-1775-5-ND"/>
       <property name="Build Type" value=""/>
-      <property name="LCSC Part #" value="C67473"/>
+      <property name="LCSC Part #" value="C6961"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -5200,12 +5200,12 @@
       <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
       <fields>
         <field name="Digi-Key Part">296-1775-5-ND</field>
-        <field name="LCSC Part #">C67473</field>
+        <field name="LCSC Part #">C6961</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
       <property name="Digi-Key Part" value="296-1775-5-ND"/>
       <property name="Build Type" value=""/>
-      <property name="LCSC Part #" value="C67473"/>
+      <property name="LCSC Part #" value="C6961"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -5216,12 +5216,12 @@
       <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
       <fields>
         <field name="Digi-Key Part">296-1775-5-ND</field>
-        <field name="LCSC Part #">C67473</field>
+        <field name="LCSC Part #">C6961</field>
       </fields>
       <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
       <property name="Digi-Key Part" value="296-1775-5-ND"/>
       <property name="Build Type" value=""/>
-      <property name="LCSC Part #" value="C67473"/>
+      <property name="LCSC Part #" value="C6961"/>
       <property name="Sheetname" value="VCAs"/>
       <property name="Sheetfile" value="vcas.kicad_sch"/>
       <sheetpath names="/VCAs/" tstamps="/72bae4df-7734-49e7-a801-14a0f108c0cd/"/>
@@ -5377,6 +5377,23 @@
         <pin num="6" name="-" type="input"/>
         <pin num="7" name="" type="output"/>
         <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="AudioJack2_SwitchT">
+      <description>Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack2_SwitchT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+        <pin num="TN" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Connector" part="TestPoint">
@@ -5668,21 +5685,6 @@
         <pin num="6" name="" type="input"/>
         <pin num="7" name="" type="input"/>
         <pin num="8" name="VCC" type="power_in"/>
-      </pins>
-    </libpart>
-    <libpart lib="greenface-symbols" part="Molex_47257">
-      <footprints>
-        <fp>Jack*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">Molex_47257</field>
-      </fields>
-      <pins>
-        <pin num="1" name="G" type="passive"/>
-        <pin num="2" name="T" type="passive"/>
-        <pin num="3" name="S" type="passive"/>
-        <pin num="4" name="SW" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="greenface-symbols" part="SW_Rotary8">
@@ -6040,37 +6042,27 @@
       <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J1" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="J1" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="J1" pin="4" pinfunction="SW" pintype="passive"/>
-      <node ref="J10" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="J10" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="J11" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="J11" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="J2" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="J2" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="J2" pin="4" pinfunction="SW" pintype="passive"/>
-      <node ref="J3" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="J3" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="J3" pin="4" pinfunction="SW" pintype="passive"/>
-      <node ref="J4" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="J4" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="J4" pin="4" pinfunction="SW" pintype="passive"/>
-      <node ref="J5" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="J5" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="J5" pin="4" pinfunction="SW" pintype="passive"/>
+      <node ref="J1" pin="S" pintype="passive"/>
+      <node ref="J1" pin="TN" pintype="passive"/>
+      <node ref="J10" pin="S" pintype="passive"/>
+      <node ref="J11" pin="S" pintype="passive"/>
+      <node ref="J2" pin="S" pintype="passive"/>
+      <node ref="J2" pin="TN" pintype="passive"/>
+      <node ref="J3" pin="S" pintype="passive"/>
+      <node ref="J3" pin="TN" pintype="passive"/>
+      <node ref="J4" pin="S" pintype="passive"/>
+      <node ref="J4" pin="TN" pintype="passive"/>
+      <node ref="J5" pin="S" pintype="passive"/>
+      <node ref="J5" pin="TN" pintype="passive"/>
       <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
       <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
       <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
       <node ref="J6" pin="8" pinfunction="Pin_8" pintype="passive"/>
-      <node ref="J7" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="J7" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="J8" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="J8" pin="3" pinfunction="S" pintype="passive"/>
-      <node ref="J9" pin="1" pinfunction="G" pintype="passive"/>
-      <node ref="J9" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="J7" pin="S" pintype="passive"/>
+      <node ref="J8" pin="S" pintype="passive"/>
+      <node ref="J9" pin="S" pintype="passive"/>
       <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
       <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
       <node ref="R11" pin="2" pintype="passive"/>
@@ -6223,7 +6215,7 @@
     </net>
     <net code="31" name="Net-(C21-Pad1)">
       <node ref="C21" pin="1" pintype="passive"/>
-      <node ref="J7" pin="2" pinfunction="T" pintype="passive"/>
+      <node ref="J7" pin="T" pintype="passive"/>
     </net>
     <net code="32" name="Net-(C21-Pad2)">
       <node ref="C21" pin="2" pintype="passive"/>
@@ -6462,40 +6454,40 @@
       <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="U33" pin="1" pintype="output"/>
     </net>
-    <net code="78" name="Net-(J1-Pad2)">
-      <node ref="J1" pin="2" pinfunction="T" pintype="passive"/>
+    <net code="78" name="Net-(J1-PadT)">
+      <node ref="J1" pin="T" pintype="passive"/>
       <node ref="R9" pin="2" pintype="passive"/>
     </net>
-    <net code="79" name="Net-(J2-Pad2)">
-      <node ref="J2" pin="2" pinfunction="T" pintype="passive"/>
+    <net code="79" name="Net-(J2-PadT)">
+      <node ref="J2" pin="T" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
     </net>
-    <net code="80" name="Net-(J3-Pad2)">
-      <node ref="J3" pin="2" pinfunction="T" pintype="passive"/>
+    <net code="80" name="Net-(J3-PadT)">
+      <node ref="J3" pin="T" pintype="passive"/>
       <node ref="R1" pin="2" pintype="passive"/>
     </net>
-    <net code="81" name="Net-(J4-Pad2)">
-      <node ref="J4" pin="2" pinfunction="T" pintype="passive"/>
+    <net code="81" name="Net-(J4-PadT)">
+      <node ref="J4" pin="T" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
     </net>
-    <net code="82" name="Net-(J5-Pad2)">
-      <node ref="J5" pin="2" pinfunction="T" pintype="passive"/>
+    <net code="82" name="Net-(J5-PadT)">
+      <node ref="J5" pin="T" pintype="passive"/>
       <node ref="R2" pin="2" pintype="passive"/>
     </net>
-    <net code="83" name="Net-(J8-Pad2)">
-      <node ref="J8" pin="2" pinfunction="T" pintype="passive"/>
+    <net code="83" name="Net-(J8-PadT)">
+      <node ref="J8" pin="T" pintype="passive"/>
       <node ref="R44" pin="1" pintype="passive"/>
     </net>
-    <net code="84" name="Net-(J9-Pad2)">
-      <node ref="J9" pin="2" pinfunction="T" pintype="passive"/>
+    <net code="84" name="Net-(J9-PadT)">
+      <node ref="J9" pin="T" pintype="passive"/>
       <node ref="R45" pin="1" pintype="passive"/>
     </net>
-    <net code="85" name="Net-(J10-Pad2)">
-      <node ref="J10" pin="2" pinfunction="T" pintype="passive"/>
+    <net code="85" name="Net-(J10-PadT)">
+      <node ref="J10" pin="T" pintype="passive"/>
       <node ref="R48" pin="1" pintype="passive"/>
     </net>
-    <net code="86" name="Net-(J11-Pad2)">
-      <node ref="J11" pin="2" pinfunction="T" pintype="passive"/>
+    <net code="86" name="Net-(J11-PadT)">
+      <node ref="J11" pin="T" pintype="passive"/>
       <node ref="R49" pin="1" pintype="passive"/>
     </net>
     <net code="87" name="Net-(Q2-Pad1)">
@@ -7215,20 +7207,20 @@
       <node ref="R120" pin="1" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
     </net>
-    <net code="252" name="unconnected-(J7-Pad4)">
-      <node ref="J7" pin="4" pinfunction="SW" pintype="passive"/>
+    <net code="252" name="unconnected-(J7-PadTN)">
+      <node ref="J7" pin="TN" pintype="passive"/>
     </net>
-    <net code="253" name="unconnected-(J8-Pad4)">
-      <node ref="J8" pin="4" pinfunction="SW" pintype="passive"/>
+    <net code="253" name="unconnected-(J8-PadTN)">
+      <node ref="J8" pin="TN" pintype="passive"/>
     </net>
-    <net code="254" name="unconnected-(J9-Pad4)">
-      <node ref="J9" pin="4" pinfunction="SW" pintype="passive"/>
+    <net code="254" name="unconnected-(J9-PadTN)">
+      <node ref="J9" pin="TN" pintype="passive"/>
     </net>
-    <net code="255" name="unconnected-(J10-Pad4)">
-      <node ref="J10" pin="4" pinfunction="SW" pintype="passive"/>
+    <net code="255" name="unconnected-(J10-PadTN)">
+      <node ref="J10" pin="TN" pintype="passive"/>
     </net>
-    <net code="256" name="unconnected-(J11-Pad4)">
-      <node ref="J11" pin="4" pinfunction="SW" pintype="passive"/>
+    <net code="256" name="unconnected-(J11-PadTN)">
+      <node ref="J11" pin="TN" pintype="passive"/>
     </net>
     <net code="257" name="unconnected-(J12-Pad1)">
       <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>

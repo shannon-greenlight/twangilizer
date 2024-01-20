@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\shann\Dropbox\moog\twangilizer\panel\panel.kicad_sch</source>
+    <date>1/19/2024 6:54:50 AM</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Pipes Panel</title>
+        <company/>
+        <rev>1.1</rev>
+        <date/>
+        <source>panel.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="GR1">
+      <value>dial</value>
+      <footprint>panel:dial2</footprint>
+      <libsource lib="greenface-symbols" part="small_logo" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b7e9d1ed-d010-49fa-95b8-39eee642e6e7</tstamps>
+    </comp>
+    <comp ref="GR2">
+      <value>Logo_Open_Hardware_Small</value>
+      <footprint>Symbol:OSHW-Logo_5.7x6mm_SilkScreen</footprint>
+      <libsource lib="Graphic" part="Logo_Open_Hardware_Small" description="Open Hardware logo, small"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>307d06a5-a22d-4946-8b80-4f092fd73e46</tstamps>
+    </comp>
+    <comp ref="GR3">
+      <value>bamboo</value>
+      <footprint>panel:vib</footprint>
+      <libsource lib="greenface-symbols" part="small_logo" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd6f6aaa-569a-4c75-a8ff-b09aedaec1f5</tstamps>
+    </comp>
+    <comp ref="GR4">
+      <value>dial</value>
+      <footprint>panel:dial2</footprint>
+      <libsource lib="greenface-symbols" part="small_logo" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15a85bee-d62c-4957-9712-4492ffd668aa</tstamps>
+    </comp>
+    <comp ref="GR5">
+      <value>dial</value>
+      <footprint>panel:dial2</footprint>
+      <libsource lib="greenface-symbols" part="small_logo" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ead9bfb-fde9-43de-8eaf-d643630fa429</tstamps>
+    </comp>
+    <comp ref="GR6">
+      <value>dial</value>
+      <footprint>panel:dial2</footprint>
+      <libsource lib="greenface-symbols" part="small_logo" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5f95a46-9073-4523-97ae-47caa77cffa3</tstamps>
+    </comp>
+    <comp ref="GR7">
+      <value>face</value>
+      <footprint>panel:small_face</footprint>
+      <libsource lib="greenface-symbols" part="small_logo" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba39f310-23c5-4a56-baa7-cf88b08d466d</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole_Pad</value>
+      <footprint>panel:MountingHole_3.2mm_M3_SmPad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>495b9f3e-72d4-4443-8d1b-2b95612acb36</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole_Pad</value>
+      <footprint>panel:MountingHole_3.2mm_M3_SmPad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9d5ddb59-1e9e-4537-9599-057acace239b</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole_Pad</value>
+      <footprint>panel:MountingHole_3.2mm_M3_SmPad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2be02da-9018-4a96-8543-13b5296b0ced</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole_Pad</value>
+      <footprint>panel:MountingHole_3.2mm_M3_SmPad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c470add-b449-455e-95fc-baae46d35c85</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>Adj 1</value>
+      <footprint>panel:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcb71876-c270-45b1-942b-f8b7b2e74527</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>Clk In</value>
+      <footprint>panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8f3be1f-4f7f-41d5-b496-5f7052d6e8e5</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>VCO Out</value>
+      <footprint>panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c91abc1a-9225-47cc-9d9c-5d96a0e6c5bb</tstamps>
+    </comp>
+    <comp ref="H8">
+      <value>MountingHole</value>
+      <footprint>panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6437bf88-0b99-43e2-818e-fdd13eae6b91</tstamps>
+    </comp>
+    <comp ref="H9">
+      <value>MountingHole</value>
+      <footprint>panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e109b36d-0314-4232-b3e9-6076fc13043d</tstamps>
+    </comp>
+    <comp ref="H10">
+      <value>MountingHole</value>
+      <footprint>panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55439d6c-cdf1-4cc6-9c90-3dbefeda32d9</tstamps>
+    </comp>
+    <comp ref="H11">
+      <value>MountingHole</value>
+      <footprint>panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd050c79-bed7-4987-a57a-77020a3e1a94</tstamps>
+    </comp>
+    <comp ref="H12">
+      <value>MountingHole</value>
+      <footprint>panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1344c258-0a0e-4ec4-be37-1204c6a78d6a</tstamps>
+    </comp>
+    <comp ref="H13">
+      <value>MountingHole</value>
+      <footprint>panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a3b37dc-b091-4334-ab9f-7817f4ad7174</tstamps>
+    </comp>
+    <comp ref="H14">
+      <value>MountingHole</value>
+      <footprint>panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c477bd89-c5cf-45a5-bad0-aa9992e513c3</tstamps>
+    </comp>
+    <comp ref="H15">
+      <value>MountingHole</value>
+      <footprint>panel:adafruit_rotary8</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36b92cbd-4509-483f-9ff4-1eb32982852b</tstamps>
+    </comp>
+    <comp ref="H16">
+      <value>MountingHole</value>
+      <footprint>panel:3mmLED</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aacae1ed-1630-4a22-8bc0-0fc4ffba468d</tstamps>
+    </comp>
+    <comp ref="H21">
+      <value>MountingHole</value>
+      <footprint>panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23f25a8c-5d80-46ed-ade2-74ba090f79f3</tstamps>
+    </comp>
+    <comp ref="H22">
+      <value>MountingHole</value>
+      <footprint>panel:3mmLED</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf06c466-7210-403d-aa2e-f77faa21ee6d</tstamps>
+    </comp>
+    <comp ref="H23">
+      <value>MountingHole</value>
+      <footprint>panel:3mmLED</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce2ea7bd-aff7-410c-9be6-c9bebc786e69</tstamps>
+    </comp>
+    <comp ref="H24">
+      <value>MountingHole</value>
+      <footprint>panel:3mmLED</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dbc05e9-d40f-42dc-8f4c-68bf9a201647</tstamps>
+    </comp>
+    <comp ref="H25">
+      <value>MountingHole</value>
+      <footprint>panel:3mmLED</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8542fbe-9692-47eb-8f3b-b30d2975e540</tstamps>
+    </comp>
+    <comp ref="H26">
+      <value>Adj 2</value>
+      <footprint>panel:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a4eb84d-9eae-409d-9d30-1551465b1510</tstamps>
+    </comp>
+    <comp ref="H27">
+      <value>Adj 3</value>
+      <footprint>panel:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cdfde6a-1e2d-4465-92e0-5195bcb5a511</tstamps>
+    </comp>
+    <comp ref="H28">
+      <value>Adj 4</value>
+      <footprint>panel:Potentiometer_Bourns_PTV09A-1_Single_Vertical</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6cb9bb4a-b4c1-4d00-b592-146c95bec357</tstamps>
+    </comp>
+    <comp ref="H29">
+      <value>MountingHole</value>
+      <footprint>panel:adafruit_rotary8</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f3de6cd-1773-41cd-8f32-d6b4dd4da442</tstamps>
+    </comp>
+    <comp ref="H30">
+      <value>MountingHole</value>
+      <footprint>panel:adafruit_rotary8</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbfa36da-0782-4e23-bc99-1549d8140ec8</tstamps>
+    </comp>
+    <comp ref="H31">
+      <value>MountingHole</value>
+      <footprint>panel:adafruit_rotary8</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>725100be-a14d-423c-bf83-c43febdee225</tstamps>
+    </comp>
+    <comp ref="H32">
+      <value>MountingHole</value>
+      <footprint>panel:tog_spst</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ea4cf62-4791-48d4-b143-b854fc7b2b79</tstamps>
+    </comp>
+    <comp ref="H33">
+      <value>MountingHole</value>
+      <footprint>panel:tog_spst</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3662a52d-8a82-48c9-9b54-f1c6c048b9a9</tstamps>
+    </comp>
+    <comp ref="H34">
+      <value>MountingHole</value>
+      <footprint>panel:tog_spst</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>63e9d957-99a5-4880-9c85-0148cc021d5e</tstamps>
+    </comp>
+    <comp ref="H35">
+      <value>MountingHole</value>
+      <footprint>panel:tog_spst</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="panel.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdb3a384-4b00-4074-9d1f-19f7dbfd6958</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Graphic" part="Logo_Open_Hardware_Small">
+      <description>Open Hardware logo, small</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">#LOGO</field>
+        <field name="Value">Logo_Open_Hardware_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="greenface-symbols" part="small_logo">
+      <fields>
+        <field name="Reference">GR</field>
+        <field name="Value">small_logo</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Graphic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Graphic.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="greenface-symbols">
+      <uri>C:/Users/shann/Dropbox/KiCAD/greenface-symbols.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+    </net>
+  </nets>
+</export>
