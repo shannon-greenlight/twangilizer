@@ -1,0 +1,106 @@
+Circuit: * C:\Users\shann\Dropbox\moog\twangilizer\docs\spice\final_output.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03122
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.01922
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01294
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.01045
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.00831
+vernier = 0.00102881
+vernier = 0.000514403
+Gmin = 1.00689
+vernier = 0.00068587
+vernier = 0.000514403
+Gmin = 1.00568
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 14.2045%
+vernier = 0.015625
+Source Step = 14.4886%
+Source Step = 14.9621%
+Source Step = 15.4356%
+Source Step = 15.9091%
+Source Step = 16.3826%
+vernier = 0.0234375
+Source Step = 17.0691%
+Source Step = 17.7794%
+Source Step = 18.4896%
+Source Step = 19.1998%
+Source Step = 19.91%
+vernier = 0.0351563
+Source Step = 20.9044%
+Source Step = 21.9697%
+Source Step = 23.035%
+Source Step = 24.1004%
+Source Step = 25.1657%
+vernier = 0.0527344
+Source Step = 26.6039%
+Source Step = 28.2019%
+Source Step = 29.8%
+Source Step = 31.398%
+Source Step = 32.996%
+vernier = 0.0791016
+Source Step = 35.0734%
+Source Step = 37.4704%
+Source Step = 39.8674%
+Source Step = 42.2644%
+Source Step = 44.6615%
+vernier = 0.118652
+Source Step = 47.6577%
+Source Step = 51.2533%
+Source Step = 54.8488%
+Source Step = 58.4443%
+Source Step = 62.0398%
+vernier = 0.177979
+Source Step = 66.3545%
+Source Step = 71.7478%
+Source Step = 77.141%
+Source Step = 82.5343%
+Source Step = 87.9276%
+vernier = 0.266968
+Source Step = 94.1299%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Fri Feb 02 13:00:06 2024
+Total elapsed time: 0.123 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 7975
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 22
+fillins = 16
+solver = Normal
+Matrix Compiler1:     102 opcodes
+Matrix Compiler2: off  [0.2]/0.3/0.3
+

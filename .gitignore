@@ -7,8 +7,10 @@ main/main-backups
 panel/panel-backups
 main/#auto_saved_files#
 img
-docs
+temp
 ~$*
 *.bat
 config.csv
 checkin_comment.txt
+*.tmp
+
