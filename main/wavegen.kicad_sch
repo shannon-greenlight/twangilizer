@@ -5,7 +5,8 @@
   (paper "A4")
 
   (title_block
-    (rev "1.0")
+    (title "Twangilizer")
+    (rev "1.1")
   )
 
   (lib_symbols
@@ -2446,7 +2447,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c7441442-8368-48d4-83f3-5797992b1221)
   )
-  (text "Output: approx. -3dBm @600ohms\n1.549Vp-p .547VRMS" (at 119.38 48.26 0)
+  (text "Output: approx. -3dBm @600ohms\n+/-.774Vp (.547VRMS)"
+    (at 119.38 48.26 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ef1241c9-4314-4348-870b-de9a142aef10)
   )

@@ -5,7 +5,8 @@
   (paper "A4")
 
   (title_block
-    (rev "1.0")
+    (title "Twangilizer")
+    (rev "1.1")
   )
 
   (lib_symbols

@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "Twangilizer Panel")
-    (rev "1.1")
+    (rev "1.2")
   )
 
   (layers
@@ -16420,16 +16420,10 @@
   (gr_text "2" (at 45.4 97.7) (layer "F.SilkS") (tstamp 41a43556-0e43-469d-a874-ba8e45572a08)
     (effects (font (size 2 2) (thickness 0.3)))
   )
-  (gr_text "0-10V" (at 44.65 150.55) (layer "F.SilkS") (tstamp 42eaa786-8586-4b94-982f-d460bf258c8a)
-    (effects (font (size 1.5 1.5) (thickness 0.2)))
-  )
   (gr_text "1" (at 45.4 75.7) (layer "F.SilkS") (tstamp 4a2fc835-ed07-4a6c-ac71-4a544ceb3958)
     (effects (font (size 2 2) (thickness 0.3)))
   )
   (gr_text "CV In" (at 44.15 59.35) (layer "F.SilkS") (tstamp 6c563d34-599b-4439-8adb-0b13ab64164d)
-    (effects (font (size 1.5 1.5) (thickness 0.3)))
-  )
-  (gr_text "5V Sq." (at 134.95 150.5) (layer "F.SilkS") (tstamp 6fc95eb4-92c7-4d72-9433-c707bbf461a7)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "The Twangilizer" (at 90.65 40.15) (layer "F.SilkS") (tstamp 770ad51a-7219-4633-b24a-bd20feb0a6c5)
