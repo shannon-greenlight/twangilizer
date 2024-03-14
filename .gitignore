@@ -13,4 +13,5 @@ temp
 config.csv
 checkin_comment.txt
 *.tmp
+*.kicad_sch-bak
 
