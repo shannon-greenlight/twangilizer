@@ -4,7 +4,7 @@ Used in conjunction with a VCO and a multiple-output CV generating module such a
 The harmonics are selectable from 1f, 2f, 3f, 4f, 5f, 6f, 7f and 8f. They are available as square waves at the output jacks 1-4.
 The harmonics are also used to generate 10-step sine-wave approximations. The amplitudes of these waves are set by the CV inputs and then added to form the analog signal output.
 
-Twangilizer features one signal input, a signal output, 4 CV bias level adjustment pots, and four CV inputs to the VCAs.
+Twangilizer features one signal input, an analog signal output, 4 digital harmonic outputs, 4 CV bias level adjustment pots, and four CV inputs to the VCAs.
 It also features harmonic selection controls: Four 8 position rotary switches to select the harmonic from the above list. And there is a toggle switch per channel that selects divide by one, or divide by two.
 
 The signal input level must be greater than .1Vp-p for the phase-locked loop circuits to be able to lock on.
