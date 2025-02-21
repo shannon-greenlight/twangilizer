@@ -1,0 +1,89 @@
+Circuit: * C:\Users\shann\Dropbox\moog\twangilizer\docs\spice\pll_loop_filt_active.asc
+
+WARNING: Less than two connections to node +9.  This node is used by V3.
+WARNING: Less than two connections to node -9.  This node is used by V4.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03122
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.01922
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01294
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.01045
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.00831
+vernier = 0.00102881
+vernier = 0.000514403
+Gmin = 1.00689
+vernier = 0.00068587
+vernier = 0.000514403
+Gmin = 1.00568
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 13.6364%
+Source Step = 15.5303%
+Source Step = 17.4242%
+Source Step = 19.3182%
+Source Step = 21.2121%
+vernier = 0.09375
+Source Step = 23.3902%
+Source Step = 26.2311%
+Source Step = 29.072%
+Source Step = 31.9129%
+Source Step = 34.7538%
+vernier = 0.140625
+Source Step = 37.8788%
+Source Step = 42.1402%
+Source Step = 46.4015%
+Source Step = 50.6629%
+Source Step = 54.9242%
+vernier = 0.210938
+Source Step = 59.3987%
+Source Step = 65.7907%
+Source Step = 72.1828%
+Source Step = 78.5748%
+Source Step = 84.9669%
+Source Step = 91.3589%
+vernier = 0.316406
+Source Step = 100%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Thu Jul 11 03:12:46 2024
+Total elapsed time: 0.147 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 7203
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 27
+fillins = 7
+solver = Normal
+Matrix Compiler1:      87 opcodes
+Matrix Compiler2: off  [0.2]/0.4/0.3
+

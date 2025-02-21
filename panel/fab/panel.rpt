@@ -1,0 +1,494 @@
+## Footprint report - date Tue Jun  4 17:18:00 2024
+## Created by Pcbnew version (6.0.1)
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 39.825000 28.520000
+lower_right_corner 142.051191 161.380000
+$EndBOARD
+
+$MODULE GR1
+footprint panel:dial2
+attribut none
+position 115.000000 70.000000  orientation 90.00
+layer front
+$EndMODULE  GR1
+
+$MODULE GR2
+footprint Symbol:OSHW-Logo_5.7x6mm_SilkScreen
+attribut virtual
+position 90.650000 152.640000  orientation 0.00
+layer front
+$EndMODULE  GR2
+
+$MODULE GR3
+footprint panel:vib
+attribut virtual
+position 90.650000 98.000000  orientation 0.00
+layer front
+$EndMODULE  GR3
+
+$MODULE GR4
+footprint panel:dial2
+attribut none
+position 115.000000 92.000000  orientation 90.00
+layer front
+$EndMODULE  GR4
+
+$MODULE GR5
+footprint panel:dial2
+attribut none
+position 115.000000 114.000000  orientation 90.00
+layer front
+$EndMODULE  GR5
+
+$MODULE GR6
+footprint panel:dial2
+attribut none
+position 115.000000 136.000000  orientation 90.00
+layer front
+$EndMODULE  GR6
+
+$MODULE H1
+footprint panel:MountingHole_3.2mm_M3_Slot
+attribut virtual
+position 47.500000 33.750000  orientation 0.00
+layer front
+$PAD "1"
+Shape Oval Layer both
+position  0.000000  0.000000  size  8.000000  5.000000  orientation 0.00
+drill  6.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H1
+
+$MODULE H2
+footprint panel:MountingHole_3.2mm_M3_Slot
+attribut virtual
+position 133.860000 33.750000  orientation 0.00
+layer front
+$PAD "1"
+Shape Oval Layer both
+position  0.000000  0.000000  size  8.000000  5.000000  orientation 0.00
+drill  6.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H2
+
+$MODULE H3
+footprint panel:MountingHole_3.2mm_M3_Slot
+attribut virtual
+position 133.860000 156.150000  orientation 0.00
+layer front
+$PAD "1"
+Shape Oval Layer both
+position  0.000000  0.000000  size  8.000000  5.000000  orientation 0.00
+drill  6.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H3
+
+$MODULE H4
+footprint panel:MountingHole_3.2mm_M3_Slot
+attribut virtual
+position 47.500000 156.150000  orientation 0.00
+layer front
+$PAD "1"
+Shape Oval Layer both
+position  0.000000  0.000000  size  8.000000  5.000000  orientation 0.00
+drill  6.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H4
+
+$MODULE H5
+footprint panel:Potentiometer_Bourns_PTV09A-1_Single_Vertical
+attribut none
+position 117.500000 77.000000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  7.000000 -2.500000  size  6.400000  6.400000  orientation 0.00
+drill  6.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H5
+
+$MODULE H6
+footprint panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+attribut none
+position 45.400000 50.000000  orientation 180.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  6.700000  6.700000  orientation 0.00
+drill  6.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H6
+
+$MODULE H7
+footprint panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+attribut none
+position 136.000000 50.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  6.700000  6.700000  orientation 0.00
+drill  6.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H7
+
+$MODULE H8
+footprint panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+attribut none
+position 136.000000 70.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  6.700000  6.700000  orientation 0.00
+drill  6.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H8
+
+$MODULE H9
+footprint panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+attribut none
+position 136.000000 92.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  6.700000  6.700000  orientation 0.00
+drill  6.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H9
+
+$MODULE H10
+footprint panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+attribut none
+position 45.400000 70.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  6.700000  6.700000  orientation 0.00
+drill  6.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H10
+
+$MODULE H11
+footprint panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+attribut none
+position 45.400000 92.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  6.700000  6.700000  orientation 0.00
+drill  6.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H11
+
+$MODULE H12
+footprint panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+attribut none
+position 45.400000 114.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  6.700000  6.700000  orientation 0.00
+drill  6.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H12
+
+$MODULE H13
+footprint panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+attribut none
+position 136.000000 114.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  6.700000  6.700000  orientation 0.00
+drill  6.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H13
+
+$MODULE H14
+footprint panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+attribut none
+position 136.000000 136.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  6.700000  6.700000  orientation 0.00
+drill  6.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H14
+
+$MODULE H15
+footprint panel:adafruit_rotary8
+attribut virtual
+position 59.900000 70.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  9.300000  9.300000  orientation 0.00
+drill  9.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  7.500000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H15
+
+$MODULE H16
+footprint panel:3mmLED
+attribut virtual
+position 51.000000 50.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  1.270000  0.000000  size  3.200000  3.200000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H16
+
+$MODULE H17
+footprint panel:3mmLED
+attribut virtual
+position 127.500000 50.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  1.270000  0.000000  size  3.200000  3.200000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H17
+
+$MODULE H21
+footprint panel:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
+attribut none
+position 45.400000 136.000000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000  0.000000  size  6.700000  6.700000  orientation 0.00
+drill  6.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H21
+
+$MODULE H22
+footprint panel:3mmLED
+attribut virtual
+position 104.450000 71.270000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  1.270000  0.000000  size  3.200000  3.200000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H22
+
+$MODULE H23
+footprint panel:3mmLED
+attribut virtual
+position 104.450000 93.270000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  1.270000  0.000000  size  3.200000  3.200000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H23
+
+$MODULE H24
+footprint panel:3mmLED
+attribut virtual
+position 104.450000 115.270000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  1.270000  0.000000  size  3.200000  3.200000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H24
+
+$MODULE H25
+footprint panel:3mmLED
+attribut virtual
+position 104.450000 137.270000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  1.270000  0.000000  size  3.200000  3.200000  orientation 0.00
+drill  3.200000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H25
+
+$MODULE H26
+footprint panel:Potentiometer_Bourns_PTV09A-1_Single_Vertical
+attribut none
+position 117.500000 99.000000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  7.000000 -2.500000  size  6.400000  6.400000  orientation 0.00
+drill  6.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H26
+
+$MODULE H27
+footprint panel:Potentiometer_Bourns_PTV09A-1_Single_Vertical
+attribut none
+position 117.500000 121.000000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  7.000000 -2.500000  size  6.400000  6.400000  orientation 0.00
+drill  6.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H27
+
+$MODULE H28
+footprint panel:Potentiometer_Bourns_PTV09A-1_Single_Vertical
+attribut none
+position 117.500000 143.000000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  7.000000 -2.500000  size  6.400000  6.400000  orientation 0.00
+drill  6.400000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H28
+
+$MODULE H29
+footprint panel:adafruit_rotary8
+attribut virtual
+position 59.900000 92.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  9.300000  9.300000  orientation 0.00
+drill  9.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  7.500000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H29
+
+$MODULE H30
+footprint panel:adafruit_rotary8
+attribut virtual
+position 59.900000 114.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  7.500000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  9.300000  9.300000  orientation 0.00
+drill  9.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H30
+
+$MODULE H31
+footprint panel:adafruit_rotary8
+attribut virtual
+position 59.900000 136.000000  orientation 0.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  0.000000  size  9.300000  9.300000  orientation 0.00
+drill  9.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD ""
+Shape Circle Layer both
+position  0.000000  7.500000  size  2.500000  2.500000  orientation 0.00
+drill  2.500000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H31
+
+$MODULE H32
+footprint panel:tog_spst
+attribut none
+position 73.300000 74.700000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000 -4.700000  size  6.350000  6.350000  orientation 0.00
+drill  6.350000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H32
+
+$MODULE H33
+footprint panel:tog_spst
+attribut none
+position 73.300000 96.700000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000 -4.700000  size  6.350000  6.350000  orientation 0.00
+drill  6.350000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H33
+
+$MODULE H34
+footprint panel:tog_spst
+attribut none
+position 73.300000 118.700000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000 -4.700000  size  6.350000  6.350000  orientation 0.00
+drill  6.350000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H34
+
+$MODULE H35
+footprint panel:tog_spst
+attribut none
+position 73.300000 140.700000  orientation 0.00
+layer front
+$PAD "1"
+Shape Circle Layer both
+position  0.000000 -4.700000  size  6.350000  6.350000  orientation 0.00
+drill  6.350000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  H35
+
+$EndDESCRIPTION

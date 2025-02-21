@@ -1,6 +1,7 @@
 "Reference","Quantity","Value","Digi-Key Part #"
+"D4, ","1","RED LED","732-5005-ND"
 "D16, ","1","GREEN LED","732-5007-ND"
-"D25, D26, D27, D28, ","4","RED LED","732-5005-ND"
+"D25, D26, D27, D28, ","4","YELLOW LED","732-5010-ND"
 "J1, J2, J3, J4, J5, J7, J8, J9, J10, J11, ","10","3.5mm Jack","WM17366-ND"
 "J12, ","1","Eurorack Power Cable","H3CCS-1618G-ND"
 "KN1, KN2, KN3, KN4, ","4","Mult Knob","1722-1314-ND"

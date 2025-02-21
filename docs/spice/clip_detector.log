@@ -1,0 +1,82 @@
+Circuit: * C:\Users\shann\Dropbox\moog\twangilizer\docs\spice\clip_detector.asc
+
+WARNING: Less than two connections to node -9.  This node is used by V4.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.08884
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 1.03122
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 1.01922
+vernier = 0.00520833
+vernier = 0.00260417
+Gmin = 1.01294
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.00231481
+vernier = 0.00115741
+Gmin = 1.01045
+vernier = 0.00154321
+vernier = 0.000771604
+Gmin = 1.00831
+vernier = 0.00102881
+vernier = 0.000514403
+Gmin = 1.00689
+vernier = 0.00068587
+vernier = 0.000514403
+Gmin = 1.00568
+vernier = 0.00068587
+vernier = 0.000514402
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 9.84848%
+Source Step = 17.4242%
+Source Step = 25%
+Source Step = 32.5758%
+Source Step = 40.1515%
+vernier = 0.375
+Source Step = 50.7576%
+Source Step = 62.1212%
+Source Step = 73.4848%
+Source Step = 84.8485%
+Source Step = 96.2121%
+vernier = 0.5625
+Source stepping succeeded in finding the operating point.
+
+Heightened Def Con from 0.474986 to 0.474986
+Heightened Def Con from 0.474999 to 0.474999
+Heightened Def Con from 0.874735 to 0.874735
+Heightened Def Con from 0.874981 to 0.874981
+Heightened Def Con from 0.874998 to 0.874998
+Heightened Def Con from 1.27498 to 1.27498
+Heightened Def Con from 1.275 to 1.275
+
+Date: Wed Jun 12 10:38:27 2024
+Total elapsed time: 0.889 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 19378
+traniter = 12657
+tranpoints = 3933
+accept = 2964
+rejected = 976
+matrix size = 50
+fillins = 45
+solver = Normal
+Thread vector: 14.8/11.1[4] 3.3/2.4[4] 2.6/5.1[1] 0.2/10.4[1]  2592/500
+Matrix Compiler1: 4.54 KB object code size  0.9/0.9/[0.3]
+Matrix Compiler2: 5.59 KB object code size  0.9/0.9/[0.4]
+

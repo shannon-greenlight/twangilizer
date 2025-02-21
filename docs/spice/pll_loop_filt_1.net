@@ -1,0 +1,9 @@
+* C:\Users\shann\Dropbox\moog\twangilizer\docs\spice\pll_loop_filt_1.asc
+R1 N002 N003 1.5K
+C1 N003 0 10µF
+V1 N001 0 SINE(0 1 20 0 0 0) AC 1
+R2 N002 N001 27K
+;.tran 0 2 1.9
+.ac dec 10 .1 1000
+.backanno
+.end
